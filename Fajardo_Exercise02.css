@@ -1,0 +1,149 @@
+body{
+	background-image: url(bg.png);
+	background-size: 1393px 655px;
+}
+
+@font-face {
+	font-family: "Kerih";
+	src: url("NCLKerihMoady-Regular.ttf") format('truetype');
+}
+
+#header{
+	width:60%;
+	height:100%;
+	background-image: url(header.png);
+	background-size: 827px 450px;
+	background-position: center;
+	box-shadow: 5px 5px 5px grey;
+	border-radius: 20px;
+}
+
+.table{
+	width:60%;
+	height:100%;
+	border-radius:20px;
+}
+
+.table1{
+	background-color:#e2e2e2;
+	box-shadow:5px 5px 5px grey;
+}
+
+#table2{
+	background-image: url(bg1.png);
+	background-size: 780px 450px;
+	background-position: center;
+	border-radius:20px;
+}
+
+#first{
+	padding:30px;
+	vertical-align:middle;
+}
+
+#me{
+	width:230px;
+	height:300px;
+	border-radius:100px;
+	border:5px solid #784f9b
+}
+.header{
+	padding:10px 0;
+	font-family:"Kerih";
+	color:#784f9b;
+}
+
+.auto{
+	margin-bottom:8px;
+	text-align:left;
+	font-size: 60px;
+	vertical-align: baseline;
+}
+
+#texts{
+	padding:5px 0;
+	margin-top:0;
+	text-align:left;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	font-size:12.5px;
+	color:black;
+	vertical-align:text-top;
+}
+
+.talk{
+	margin-bottom:8px;
+	text-align:center;
+	font-size:40px;
+	vertical-align: baseline;
+}
+
+#contact{
+	padding:4px 8px;
+	text-align:center;
+	font-size:13px;
+	background-color:#784f9b;
+	color:#edce8b;
+	border-radius:50px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#context{
+	margin-top:0;
+	text-align:center;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size:12.5px;
+	color:#784f9b;
+}
+
+.exp{
+	text-align:center;
+	font-size:40px;
+	vertical-align: middle;
+}
+
+#skill{
+	display:inline-flex;
+	padding:10px 50px;
+	text-align:center;
+	font-size:13px;
+	background-color:#edce8b;
+	color:#784f9b;
+	border-radius:50px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#button {
+	display:inline-flex;
+    padding: 10px 50px;
+    text-align: center;
+    font-size: 13px;
+    color: #784f9b;
+    background-color: #edce8b;
+    border-radius: 50px;  
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	transition-duration:0.4s;
+	cursor:pointer;
+}
+
+#button:hover{
+	background: #784f9b;
+	color: #edce8b;
+}
+
+.ty{
+	padding: 5px 50px;
+	margin-bottom:8px;
+	text-align:left;
+	font-size: 25px;
+	vertical-align: baseline;
+}
+
+#end{
+	padding:0 50px;
+	margin-top:0;
+	text-align:left;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	font-size:12.5px;
+	color:black;
+	vertical-align:text-top;
+}
