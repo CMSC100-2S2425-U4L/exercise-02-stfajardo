@@ -1,8 +1,8 @@
-SIMPLCIITY FAJARDO
+SIMPLICITY FAJARDO
 BS Computer Science
-[link]
+link: https://cmsc100-2s2425-u4l.github.io/exercise-02-stfajardo/
 
-Steps on hwo to create a github page
+Steps on how to create a github page:
 (1) Go to Github.com
 (2) Clone the repository
 (3) Use 'git init' to reintialize the repository
